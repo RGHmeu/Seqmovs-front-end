@@ -1,4 +1,4 @@
-# Movimentos API
+# Seqmovs API
 
 Este aplicativo visa oferecer uma ajuda para as pessoas que praticam exercícios físicos para se manter em forma.
 
